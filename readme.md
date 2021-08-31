@@ -22,7 +22,3 @@ Smart Contract
 4. Storefront
 
 Tech: Next.js (Node.js) + Apollo Client
-
-# License
-
-EUPL 1.2. If that license does not fit your needs, just get in touch: hello@unchained.shop
